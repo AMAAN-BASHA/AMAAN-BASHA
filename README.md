@@ -14,7 +14,7 @@
 - 📫 How to reach me **bashamaan0213@gmail.com**
 
 - 📄 Know about my experienceshttps:[//amaan-basha-portfolio.onrender.com/](https://amaan-basha-portfolio.onrender.com)
-- 📄 Resume-https:https://docs.google.com/document/d/13A3Xqs5V5xRTZ2SN8lb1qHBtXPmGvCel/edit?usp=sharing&ouid=102802104417664149278&rtpof=true&sd=true
+- 📄 Resume-https:https://docs.google.com/document/d/1xYhdN6dhQV1vKn4zQQAnWSVz2tY4fAPj/edit?usp=sharing&ouid=102802104417664149278&rtpof=true&sd=true
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amaan-basha-617a111b1/" target="[https:www.linkedin.com/in/amaan-basha-617a111b1]"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amaan-basha-617a111b1/" height="30" width="40" /></a>
